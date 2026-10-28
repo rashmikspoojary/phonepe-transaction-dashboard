@@ -29,7 +29,7 @@ This project focuses on exploring digital payment transaction data using Microso
 
 ## Dashboard Preview
 
-![PhonePe Transaction Dashboard](PhonePe_Dashboard.png)
+![PhonePe Transaction Dashboard](Phonepay.png)
 
 ## Skills Demonstrated
 
